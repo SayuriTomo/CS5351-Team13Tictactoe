@@ -47,7 +47,7 @@ int main() {
 		i--;
 		j--;
 
-		/*
+		
 		while (i < 0 || i > 2 || j < 0 || j > 2)
 		{
 			cout << "illegal input, please input again!";
@@ -61,7 +61,7 @@ int main() {
 			i--;
 			j--;
 		}
-		*/
+		
 
 		if (turn == false)
 			game[i][j] = 'X';
